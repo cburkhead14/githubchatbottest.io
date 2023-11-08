@@ -1,4 +1,10 @@
 # githubchatbottest.io
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+</head>
+<body>
+	<p1>McD ChatBot</p1>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -18,3 +24,5 @@
 	};
 </script>
 <script type='text/javascript' src='https://mcdonaldsusa--dev.sandbox.my.site.com/ESWCharlieGitHub1699465985559/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+</body>
+</html>
