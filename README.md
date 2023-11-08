@@ -10,11 +10,11 @@
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
-				'00D7b000000A2Lc',
-				'CharlieGitHub',
-				'https://mcdonaldsusa--dev.sandbox.my.site.com/ESWCharlieGitHub1699465985559',
+				'00D780000004Zmp',
+				'github',
+				'https://mcdonaldsusa--uat2.sandbox.my.site.com/ESWgithub1687874191923',
 				{
-					scrt2URL: 'https://mcdonaldsusa--dev.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://mcdonaldsusa--uat2.sandbox.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -22,6 +22,10 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://mcdonaldsusa--dev.sandbox.my.site.com/ESWCharlieGitHub1699465985559/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://mcdonaldsusa--uat2.sandbox.my.site.com/ESWgithub1687874191923/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
+
+
+
 </body>
 </html>
