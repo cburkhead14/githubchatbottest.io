@@ -6,7 +6,7 @@
 			embeddedservice_bootstrap.init(
 				'00D7b000000A2Lc',
 				'CharlieGitHub',
-				'https://mcdonaldsusa--dev.sandbox.my.site.com/ESWCharlieGitHub1699465768274',
+				'https://mcdonaldsusa--dev.sandbox.my.site.com/ESWCharlieGitHub1699465985559',
 				{
 					scrt2URL: 'https://mcdonaldsusa--dev.sandbox.my.salesforce-scrt.com'
 				}
@@ -16,4 +16,4 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://mcdonaldsusa--dev.sandbox.my.site.com/ESWCharlieGitHub1699465768274/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://mcdonaldsusa--dev.sandbox.my.site.com/ESWCharlieGitHub1699465985559/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
